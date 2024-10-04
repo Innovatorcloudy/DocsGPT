@@ -491,3 +491,10 @@ input:-webkit-autofill:focus {
 .logs-table {
   font-family: 'IBMPlexMono-Medium', system-ui;
 }
+/**
+ * For dark mode
+ */
+.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
